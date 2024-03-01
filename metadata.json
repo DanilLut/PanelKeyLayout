@@ -1,0 +1,8 @@
+{
+  "uuid" : "PanelKeyLayout@DanilLut",
+  "name" : "Panel Keyboard Layout",
+  "description" : "Show current keyboard layout on the panel.",
+  "shell-version" : ["45"],
+  "url" : "https://github.com/DanilLut/PanelKeyLayout",
+  "version" : 1.0
+}
